@@ -1,4 +1,4 @@
-# Brick-Breakers
+# Brick-Breakerz
 
 Brick Breakers is a game created running on Unity and C# as the main language.
 
